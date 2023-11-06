@@ -7,3 +7,8 @@ Here are some ideas to get you started:
 - 🔭 estudando alura
 - 🌱 java script
 - 👯 organização
+
+- ##Quer entrar em contato comigo?
+
+-  Emai-l: andressa.veloso.santos@escola.pr.gov.br
+- @dr3ssa.veloso
